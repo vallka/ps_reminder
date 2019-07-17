@@ -1,3 +1,5 @@
+# Some modification of official Prestashop add-on. Allows to send reminders WITHOUT giving customers any discount (suprisingly missed in the official module)
+
 # Customer reminder
 
 ## About
